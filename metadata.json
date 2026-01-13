@@ -1,0 +1,8 @@
+{
+  "name": "ProctorAI - Secure Exam Platform",
+  "description": "An AI-powered online proctoring system that monitors exam integrity through real-time face detection, tab-switching prevention, and automated violation flagging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
